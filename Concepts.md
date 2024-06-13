@@ -5,7 +5,7 @@
   * Application:
     1. Open an image on [GIMP](https://www.gimp.org/)
     2. Go to *Filters->Generic->Convolution Matrix*
-    3. Click on preview
+    3. Check Preview checkbox.
     4. Change the values from the 5x5 matrix reprented in the range-boxes. Example: <br> [0 0 0 0 0] <br>[0 -1 0 1 0] <br>[0 -1 0 1 0] <br>[0 -1 0 1 0] <br>[0 0 0 0 0]
 
 * **Terms and Concepts**
