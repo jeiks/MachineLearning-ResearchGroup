@@ -22,7 +22,7 @@
   * [Stanford - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
   * [Microsoft - AI for Beginners](https://microsoft.github.io/AI-For-Beginners/?s=08)
 * Books:
-  * [Cris Bishop - Deep Learning](https://www.bishopbook.com/)
+  * [Chris Bishop - Deep Learning](https://www.bishopbook.com/)
   * [Dive into Deep Learning](https://d2l.ai)
 * [KLINK - Video Generator](http://chatgptguide.ai/2024/06/07/chinese-ai-model-kling-stuns-the-world/)
 * [Google Research - Vision Transformer](https://github.com/google-research/vision_transformer)
