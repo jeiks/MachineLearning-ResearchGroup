@@ -6,6 +6,6 @@
 * AlexNet:
   * [KRIZHEVSKY, A.; SUTSKEVER, I.; HINTON, G. E. ImageNet classification with deep convolutional neural networks. Communications of the ACM, v. 60, n. 6, p. 84–90, 2012.](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-Next paper:
+Next discussion:
 * InceptionNet:
   * [SZEGEDY, C. et al. Going Deeper with Convolutions. arXiv:1409.4842 [cs], 16 set. 2014.](https://arxiv.org/abs/1409.4842)
