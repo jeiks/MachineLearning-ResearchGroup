@@ -20,7 +20,10 @@
   * [Hugging Face](https://huggingface.co/blog/gemma)
 * Courses:
   * [Stanford - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-  * [Microsoft - AI for Beginners](https://microsoft.github.io/AI-For-Beginners/?s=08)
+  * [Microsoft - AI for Beginners](https://microsoft.github.io/AI-For-Beginners)
+  * [Microsoft - ML for Beginners](https://microsoft.github.io/ML-For-Beginners)
+  * [Microsoft - Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners)
+  * [MIT - Introduction to Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 * Books:
   * [Chris Bishop - Deep Learning](https://www.bishopbook.com/)
   * [Dive into Deep Learning](https://d2l.ai)
